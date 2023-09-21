@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Enamoramiento",
+    "slug": "Enamoramiento",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/IconoP2.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/fondoInicio.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/IconoP2.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.usernam.Enamoramiento"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3711b901-be16-4b9c-a38a-614b43f15a44"
+      }
+    }
+  }
+}
